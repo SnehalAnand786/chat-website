@@ -71,3 +71,4 @@ Copy the Firebase config keys and paste them into `src/configs/firebase.js` in y
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ## output 
+![Image](https://github.com/user-attachments/assets/c4718784-8b34-4a28-83dd-405346d4024a)
